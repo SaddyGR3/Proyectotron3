@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.35122.118
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Proyectotron3", "Proyectotron3\Proyectotron3.csproj", "{EE3619B4-A326-4700-8286-06923BDE9A1D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EE3619B4-A326-4700-8286-06923BDE9A1D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EE3619B4-A326-4700-8286-06923BDE9A1D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EE3619B4-A326-4700-8286-06923BDE9A1D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EE3619B4-A326-4700-8286-06923BDE9A1D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DFDB6621-3455-4CA2-B301-4812FEFB0C82}
+	EndGlobalSection
+EndGlobal
